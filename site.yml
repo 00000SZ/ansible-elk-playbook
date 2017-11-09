@@ -9,6 +9,7 @@
   roles:
   - { role: java }
   - { role: elasticsearch }
+  - { role: logstash }
   - { role: kibana }
   - { role: metricbeat }
   - { role: filebeat }
